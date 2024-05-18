@@ -1,5 +1,5 @@
 # tip-initiative-apis
-Repository of the current TIP APIs
+Test Repository of the current TIP APIs
 
 TIP is an industry work group dedicated to promoting open interfaces to
 streamline advertising transactions for local TV broadcasters and their media
